@@ -41,6 +41,6 @@ To see the step by step of what I did, click here --> [Cleaning Steps](https://g
 
 ---
 
-To see the actual spreadhseets, click here --> [IMDb spreadsheet](https://docs.google.com/spreadsheets/d/1cvD2v5cYthlRGfhcKMqxeH7CKhb8AkYxN_WZ-gJ78ok/edit#gid=239742263)
+To see the actual spreadsheets, click here --> [IMDb spreadsheet](https://docs.google.com/spreadsheets/d/1cvD2v5cYthlRGfhcKMqxeH7CKhb8AkYxN_WZ-gJ78ok/edit#gid=239742263)
 
 To see me clean the same dataset using SQL, click here --> [Data Cleaning in SQL]()
